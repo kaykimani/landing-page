@@ -10,13 +10,13 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #1c2b3a; /* dark navy color */
+  background-color: black; /* dark color */
   padding: 16px 24px;
 }
 
 header .logo {
   display: flex;
-    background-color: #1F2937;
+    background-color: black;
     color: white;
     align-items: center;
 }
